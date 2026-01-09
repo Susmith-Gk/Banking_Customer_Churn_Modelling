@@ -21,20 +21,40 @@ How can business users explore data using natural language instead of SQL?
 
 The solution follows a layered analytics architecture:
 
-### Data Processing (Python): Cleaning, feature engineering, and preparation of customer data
+  ==> Data Processing (Python): Cleaning, feature engineering, and preparation of customer data
 
-### Analytics Layer (BigQuery + SQL): Creation of reusable business metrics and churn analysis views
+  ==> Analytics Layer (BigQuery + SQL): Creation of reusable business metrics and churn analysis views
 
-### Machine Learning: Churn prediction model with explainability and experiment tracking
+  ==> Machine Learning: Churn prediction model with explainability and experiment tracking
 
-### Generative AI Layer:
+  ==> Generative AI Layer:
 
-Natural language → SQL querying
+  Natural language → SQL querying
 
 Automated insight generation
 
 Model explanation for non-technical stakeholders
 
-### Visualization (Power BI): Interactive dashboards for churn, customer segments, and regional trends
+==> Visualization (Power BI): Interactive dashboards for churn, customer segments, and regional trends
 
 This approach reflects how modern enterprises augment analytics with GenAI, rather than replacing existing BI systems.
+
+# Key Skills Demonstrated
+
+## Skills & Technologies
+
+Python: pandas, NumPy, scikit-learn, MLflow
+
+SQL: BigQuery, analytical views, business metrics
+
+Machine Learning: Classification, model evaluation, explainability
+
+Generative AI: NL → SQL, insight narration, model interpretation
+
+Data Visualization: Power BI
+
+Analytics Thinking: Business metrics, churn analysis, stakeholder communication
+
+# Why This Project Matters
+
+This project demonstrates not just technical ability, but how analytics and GenAI are applied together in real business environments to support decision-making, explain insights, and drive action.
